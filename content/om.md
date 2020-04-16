@@ -16,13 +16,12 @@ views:
                 type: single
                 route: block/om-redovisa
 ---
-Om
-=========================
+# Om
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Jag tog den fristående kursen <sample>oophp</sample>, eller Objekt&shy;orienterad PHP 2012 - eller där&shy;omkring. Jag lärde mig massor som jag kunde an&shy;vända när jag utvecklade och under&shy;höll hem&shy;sidor åt körer, fritids&shy;orkestrar och diverse artister.
 
-Skriv några kloka ord om kursen?
+[FIGURE src="image/Boxer-small.jpg?w=300" class="right" caption="En intressant kurs väntar oss. Låt oss anträda resan."]
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
+Kursen har naturligt&shy;vis utvecklats mycket sedan dess, och jag ser fram emot att lära mig nya saker, och åter&shy;upptäcka gamla. I och med att vi redan läst objekt&shy;orien&shy;tering i andra programmerings&shy;språk så hoppas jag att det skall gå enkelt och smidigt att bara byta språk, utan att byta idéer eller arbetsformer.
 
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+Vi har täckt in en hel del nu. Jag börjar verk&shy;ligen att gilla vårt arbets&shy;sätt. Dels hur under&shy;visningen går till, men också hur vi delar upp kod, inne&shy;håll och presen&shy;tationer. Det känns som att vi an&shy;lägger bra rutiner den som vill göra kodandet till sitt yrke.
