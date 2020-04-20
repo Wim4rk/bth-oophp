@@ -31,6 +31,7 @@ function destroy_session()
 /**
  * A nice var_dump();...
  */
-function nice_dump($var) {
+function nice_dump($var)
+{
     echo "<code>" . var_export($var, true) . "</code>\n";
 }
