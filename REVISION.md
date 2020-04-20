@@ -12,4 +12,4 @@ v. 0.0.1
 
 v. 0.1.0
 --------
-* Finnished first stage of course, kmom01
+* Finnished first stage of course, kmom01.

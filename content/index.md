@@ -23,9 +23,9 @@ Till slut orkade jag inte med det längre.
 
 Nu tycker jag inte att det finns någon anledning att byta ut en mobiltelefon som inte är trasig. Min dator är sex år gammal. Över lag försöker jag att leva ett liv som innehåller så lite manicker som möjligt. Jag är en av de där personerna som är svåra att nå om man inte ringer mig.
 
-Jag är en hängiven foto&shy;graf, men även där har jag, från att ha varit längst fram i den digi&shy;tala utveck&shy;lingen återgå till det analoga formatet. Jag gör bättre bilder med gamla kameror som jag faktiskt förstår och kan använda till fullo.
+Jag är en hängiven foto&shy;graf, men även där har jag, från att ha varit längst fram i den digi&shy;tala utveck&shy;lingen återgått till det analoga formatet. Jag gör bättre bilder med gamla kameror som jag faktiskt förstår och kan använda till fullo.
 
-När jag skriver på riktigt använder jag en skrivmaskin, jag har ersatt min handdator med en anteckningsbok (kolla gärna upp [BuJo][1], det har för&shy;ändrat mitt liv). Tan&shy;gent&shy;bordet till min dator är ett IBM Model M från 1989, och min dröm&shy;bil är en elektri&shy;fierad P1800.
+När jag skriver på riktigt använder jag en skrivmaskin och jag har ersatt min handdator med en anteckningsbok (kolla gärna upp [BuJo][1], det har för&shy;ändrat mitt liv). Tan&shy;gent&shy;bordet till min dator är ett IBM Model M från 1989, och min dröm&shy;bil är en elektri&shy;fierad P1800.
 
 Det är något av en mot&shy;sägelse att både vara teknik&shy;intresserad och att känna en motvilja mot tekniska prylar. Jag tror att nyckeln kanske finns i skapandet. Egent&shy;ligen har jag aldrig gillat prylarna, utan bara det som jag kunde skapa med dem. I kodandet får jag ett utlopp för det skapandet.
 
