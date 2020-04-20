@@ -27,3 +27,10 @@ function destroy_session()
     // Finally, destroy the session.
     session_destroy();
 }
+
+/**
+ * A nice var_dump();...
+ */
+function nice_dump($var) {
+    echo "<code>" . var_export($var, true) . "</code>\n";
+}

@@ -13,13 +13,6 @@ define('ROOT_PATH', __DIR__);
 include(__DIR__ . "/src/common.php");
 
 /**
- * A nice var_dump();...
- */
-function nice_dump($var) {
-    echo "<code>" . var_export($var, true) . "</code>\n";
-}
-
-/**
  * Name-given SESSION.
  */
 $name = preg_replace("/[^a-z\d]/i", "", __DIR__);

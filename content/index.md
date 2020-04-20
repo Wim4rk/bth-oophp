@@ -9,7 +9,7 @@ Jag vill helt kort berätta om mig själv. Född och uppvuxen i Söderala utanf�
 
 Vid min aktnings&shy;värda ålder kommer man ihåg när datorerna slog igenom, när de blev var mans egendom. Dyra var de, och de flesta hade ingen aning om hur man skulle använda dem, utom möjligen till att spela spel på. Väldigt få köpte skrivare, till exempel.
 
-Själv hade jag ärvt en Spectravideo efter min kusin när han gick över till Amiga. Det var ett jätte&shy;fint set på den tiden. Rätt begränsat med minne, men hur mycket lagring som helst. Jag hade både band&shy;spelare och diskett&shy;station. Disketterna var 5 och en kvarts tum breda. Jag hade en skrivare som klarade ungefär ett kvitto i bredd, men det coolaste jag hade var en ritplatta. Det var jag ensam om i hela byn.
+Själv hade jag ärvt en Spectravideo efter min kusin när han gick över till Amiga. Det var ett jätte&shy;fint set på den tiden. Rätt begränsat med minne, men hur mycket lagring som helst. Jag hade både band&shy;spelare och diskett&shy;station. Disketterna var 5 och en kvarts tum breda. Jag hade en skrivare som klarade ungefär ett kvitto i bredd, men det coolaste jag hade var en ritplatta. Det var jag ensam om i hela kommunen, det tror jag.
 
 ## Nya prylar
 

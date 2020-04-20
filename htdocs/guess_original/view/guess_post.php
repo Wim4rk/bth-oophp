@@ -1,23 +1,3 @@
-
-<?php
-
-$deactivate = "";
-$answer = "";
-
-if (isset($_POST["doInit"]) && $_POST["doInit"] != null) {
-    destroy_session();
-    $Stats = new Guess();
-    $_SESSION["stats"] = $Stats;
-}
-
-if (isset($_POST["doGuess"]) && $_POST["doGuess"] != null) {
-    $answer = $Stats->makeGuess($_POST["guess"]);
-}
-
-if ($Stats->tries() < 1 || $answer == "correct") {
-    $deactivate = " disabled";
-}
-?>
 <div class="game">
 <h1>Guess my number</h1>
 
@@ -25,7 +5,7 @@ if ($Stats->tries() < 1 || $answer == "correct") {
     have <?= $Stats->tries() ?> tries left.</p>
 
 <form method="post">
-    <input type="text" name="guess">
+    <input type="text" name="guess" autofocus>
     <input type="submit" name="doGuess" value="Make a guess"<?= $deactivate ?>>
     <input type="submit" name="doInit" value="Start over">
     <input type="submit" name="doCheat" value="Cheat"<?= $deactivate ?>>

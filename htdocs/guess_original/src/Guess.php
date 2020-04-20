@@ -41,7 +41,7 @@ class Guess
      * @return void
      */
 
-    public function random()
+    public function random() : void
     {
         $this->number = rand(1, 100);
     }
@@ -55,7 +55,7 @@ class Guess
      * @return int as number of tries made.
      */
 
-    public function tries()
+    public function tries() : int
     {
         return $this->tries;
     }
@@ -68,7 +68,7 @@ class Guess
      * @return int as the secret number.
      */
 
-    public function number()
+    public function number() : int
     {
         return $this->number;
     }
@@ -84,9 +84,9 @@ class Guess
     /**
      * Shall we continue?
      *
-     * @return bool to show if game is over.
+     * @return string as result of guess.
      */
-    public function makeGuess($number)
+    public function makeGuess(int $number) : string
     {
         if ($number > 100 || $number < 1) {
             throw new GuessException("Guess is out of bounds");
