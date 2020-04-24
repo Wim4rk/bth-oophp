@@ -23,11 +23,18 @@ namespace Anax\View;
     <input type="submit" name="doCheat" value="Cheat"<?= $deactivate ?>>
 </form> -->
 
+<?php
+$deactivate = "";
+if ($res == "correct" || $tries < 1) {
+    $deactivate = " disabled";
+}
+?>
+
 <form method="post">
     <input type="text" name="guess" autofocus>
-    <input type="submit" name="doGuess" value="Make a guess">
+    <input type="submit" name="doGuess" value="Make a guess"<?= $deactivate ?>>
     <input type="submit" name="doInit" value="Start over">
-    <input type="submit" name="doCheat" value="Cheat">
+    <input type="submit" name="doCheat" value="Cheat"<?= $deactivate ?>>
 </form>
 
 <?php if ($res) : ?>

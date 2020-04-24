@@ -33,3 +33,14 @@ function nice_dump($var)
     </div><!-- debug -->
 </div><!-- screen_bottom -->
 <hr>
+
+<script>
+"use strict";
+
+function debugVisibility() {
+    // Toggle visibility
+    var debug = document.getElementById("debug");
+
+    debug.classList.toggle("invisible");
+}
+</script>

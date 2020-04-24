@@ -62,6 +62,10 @@ $app->router->post("guess/play", function () use ($app) {
     $doGuess = $_POST['doGuess'] ?? null;
     $doCheat =  $_POST['doCheat'] ?? null;
 
+    if ($doInit) {
+        return $app->response->redirect("guess/init");
+    }
+
     // Current settings from SESSION
     $number = $_SESSION['number'] ?? null;
     $tries = $_SESSION['tries'] ?? null;
