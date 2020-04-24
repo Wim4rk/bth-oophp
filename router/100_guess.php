@@ -23,12 +23,13 @@ $app->router->get("guess/play", function () use ($app) {
     // $_SESSION["number"] = $game->number();
     // $_SESSION["tries"] = $game->tries();
     // return $app->response->redirect("guess/play");
+    $title = "Guessing game";
     $tries = $_SESSION['tries'] ?? null;
     $res = $_SESSION['res'] ?? null;
     $guess = $_SESSION['guess'] ?? null;
 
     $_SESSION['res'] = null;
-    $_SESSION['$guess'] = null;
+    $_SESSION['guess'] = null;
 
     $data = [
         "guess" => $guess,

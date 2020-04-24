@@ -10,6 +10,13 @@ namespace Anax\View;
 //echo showEnvironment(get_defined_vars(), get_defined_functions());
 
 
+/**
+ * A nice var_dump();...
+ */
+function nice_dump($var)
+{
+    echo "<code>" . var_export($var, true) . "</code>\n";
+}
 
 ?><hr>
 <div class="screen_bottom">
@@ -18,17 +25,11 @@ namespace Anax\View;
     <!-- <div id="debug"> -->
         <!-- Error checking -->
         <h4>$_POST</h4>
-<code>
-<?= var_dump($_POST); ?>
-</code>
+<?= nice_dump($_POST); ?>
 <h4>$_GET</h4>
-<code>
-<?= var_dump($_GET); ?>
-</code>
+<?= nice_dump($_GET); ?>
 <h4>$_SESSION</h4>
-<code>
-<?= var_dump($_SESSION); ?>
-</code>
+<?= nice_dump($_SESSION); ?>
     </div><!-- debug -->
 </div><!-- screen_bottom -->
 <hr>
