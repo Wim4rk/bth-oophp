@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Exception class for namespace Wim4rk
+ */
+
 namespace Wim4rk\Guess;
 
 /**
